@@ -1,0 +1,65 @@
+{
+  "note": "Editorial stock photographs used for mood only. None shows FNS Pool Service and Repairs, LLC, its owner, staff, customers, equipment or completed work.",
+  "license": {
+    "name": "Pexels License",
+    "url": "https://www.pexels.com/license/"
+  },
+  "photos": [
+    {
+      "file": "assets/images/equipment-gauge.jpg",
+      "placement": "Hero",
+      "source": "Pexels",
+      "photoId": 39353208,
+      "title": "Industrial Pressure Gauge and Piping System",
+      "photographer": "Kamil \u010ci\u010dila",
+      "page": "https://www.pexels.com/photo/industrial-pressure-gauge-and-piping-system-39353208/",
+      "originalFile": "https://images.pexels.com/photos/39353208/pexels-photo-39353208.jpeg",
+      "derivation": "Resized to 1600x1204 and re-compressed as JPEG. No other edits."
+    },
+    {
+      "file": "assets/images/drained-pool.jpg",
+      "placement": "Remodeling section",
+      "source": "Pexels",
+      "photoId": 10612454,
+      "title": "Empty Swimming Pool",
+      "photographer": "Stefano Zanet",
+      "page": "https://www.pexels.com/photo/empty-swimming-pool-10612454/",
+      "originalFile": "https://images.pexels.com/photos/10612454/pexels-photo-10612454.jpeg",
+      "derivation": "Resized to 1400x933 and re-compressed as JPEG. No other edits."
+    },
+    {
+      "file": "assets/images/pool-steps.jpg",
+      "placement": "Request section background (18% opacity)",
+      "source": "Pexels",
+      "photoId": 6952877,
+      "title": "Sunlit Swimming Pool",
+      "photographer": "Jan van der Wolf",
+      "page": "https://www.pexels.com/photo/sunlit-swimming-pool-6952877/",
+      "originalFile": "https://images.pexels.com/photos/6952877/pexels-photo-6952877.jpeg",
+      "derivation": "Resized to 1400x933 and re-compressed as JPEG. No other edits."
+    }
+  ],
+  "fonts": [
+    {
+      "family": "Barlow Condensed",
+      "files": [
+        "assets/fonts/barlow-condensed-normal-600.woff2",
+        "assets/fonts/barlow-condensed-normal-700.woff2",
+        "assets/fonts/barlow-condensed-normal-800.woff2"
+      ],
+      "source": "Google Fonts (self-hosted, latin subset)",
+      "license": "SIL Open Font License 1.1"
+    },
+    {
+      "family": "IBM Plex Sans",
+      "files": [
+        "assets/fonts/ibm-plex-sans-italic-400.woff2",
+        "assets/fonts/ibm-plex-sans-normal-400.woff2",
+        "assets/fonts/ibm-plex-sans-normal-500.woff2",
+        "assets/fonts/ibm-plex-sans-normal-600.woff2"
+      ],
+      "source": "Google Fonts (self-hosted, latin subset)",
+      "license": "SIL Open Font License 1.1"
+    }
+  ]
+}
